@@ -76,9 +76,9 @@ To use the code in this repository, follow these steps:
 
 1. **Clone the repository**:
     bash
-    git clone https://github.com/your-username/dsa-repository.git
+    git clone https://github.com/samantsu01/ds-and-a.git
     cd dsa-repository
-    
+
 
 2. **Install dependencies** (if any):
     - For Java, you might need to set up a Java Development Kit (JDK).
@@ -87,9 +87,8 @@ To use the code in this repository, follow these steps:
       python -m venv venv
       source venv/bin/activate
       pip install -r requirements.txt
-      
+
 
 ## Usage
 
 To run any data structure or algorithm, navigate to the respective directory and run the implementation file. For example, to run the insertion sort implementation in Java:
-
